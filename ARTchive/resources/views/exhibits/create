@@ -1,0 +1,10 @@
+@extends('layout')
+
+@section('title')
+    Create Exhibit
+@endsection
+
+@section('content')
+    <h2>Create Exhibit</h2>
+
+@endsection
